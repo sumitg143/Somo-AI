@@ -1,0 +1,9 @@
+{
+  "name": "Somo - Voice AI Assistant",
+  "description": "A confident, witty, and playful real-time voice-to-voice AI companion powered by Gemini Live.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
